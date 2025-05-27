@@ -70,12 +70,12 @@ WebShield는 크롬 브라우저 환경에서 사용자가 방문하는 웹사�
 WebShield
 ├── webshield-extension \
 │   ├── content.js  \
-│   ├── background.js
-│   ├── popup.html / popup.js
-│   └── manifest.json
-├── webshield-backend/
-│   ├── main.py
-│   ├── prompt_generator.py
-│   ├── openai_client.py
-│   └── requirements.txt
-└── .env
+│   ├── background.js \
+│   ├── popup.html / popup.js \
+│   └── manifest.json \
+├── webshield-backend/ \
+│   ├── main.py \
+│   ├── prompt_generator.py \ 
+│   ├── openai_client.py \
+│   └── requirements.txt \
+└── .env \
