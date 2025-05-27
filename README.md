@@ -57,7 +57,7 @@ WebShield는 크롬 브라우저 환경에서 사용자가 방문하는 웹사�
 - **Backend:** Python 3.10+, FastAPI, Uvicorn  
 - **AI Model:** OpenAI GPT-3.5 API  
 - **환경 변수 관리:** python-dotenv  
-
+\
 ### 기타 도구  
 - Git / GitHub  
 - 크롬 확장 프로그램 Manifest V3  
@@ -68,8 +68,8 @@ WebShield는 크롬 브라우저 환경에서 사용자가 방문하는 웹사�
 
 ## 프로젝트 구조
 WebShield
-├── webshield-extension/
-│   ├── content.js
+├── webshield-extension \
+│   ├── content.js  \
 │   ├── background.js
 │   ├── popup.html / popup.js
 │   └── manifest.json
