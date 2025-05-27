@@ -67,7 +67,7 @@ WebShield는 크롬 브라우저 환경에서 사용자가 방문하는 웹사�
 —
 
 ## 프로젝트 구조
-WebShield
+WebShield \
 ├── webshield-extension \
 │   ├── content.js  \
 │   ├── background.js \
